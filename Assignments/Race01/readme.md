@@ -5,4 +5,5 @@
 ![Screenshot (429)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/109bbbe3-f90e-4ee6-8197-7722f02eb26f)
 
 ## Problem 2: Even or Odd
-![Screenshot (428)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/9abfa41a-2f95-48b0-8988-2ca641e77152)
+![Screenshot (430)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/348780dc-2483-431e-89a0-e1c59ea7dc3c)
+
