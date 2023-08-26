@@ -1,4 +1,4 @@
-![Screenshot (432)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/9e675250-d715-4e38-81db-904e81b7bb32)# Name: Muhammed Owais
+# Name: Muhammed Owais
 # Roll No: 23K-0047
 
 ## Problem 1: Miles per hour to kilometers per seconds.
