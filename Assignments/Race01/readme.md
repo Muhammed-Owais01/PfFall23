@@ -12,7 +12,7 @@
 
 ## Problem 4: Bus fare
 ![Screenshot (438)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/7758adf4-b430-45fc-a873-8aed671cef27)
-![Screenshot (439)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/073d70ec-3eaf-4336-a0be-ea674ddeac88)
+![Screenshot (440)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/e10c93b5-75a1-4760-b1a5-a4ad159ccde8)
 
 ## Problem 5: Which Floor
 ![Screenshot (437)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/c7ac1ff8-07aa-495a-a108-7a6225462d02)
