@@ -9,3 +9,6 @@
 
 ## TASK # 3: Kolachi restaurant has started charging for wallet parking.
 ![Screenshot (4)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/6c030013-a309-4c73-acc9-d039e2c37f53)
+
+## TASK # 4: Draw a hexagon that has six sides. Repeat the hexagon for the same number of times as of its size.
+![Screenshot (5)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/8f2b5a6a-60f5-4c12-900f-da4bb632c884)
