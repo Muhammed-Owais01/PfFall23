@@ -1,6 +1,8 @@
 # Name: Muhammed Owais
 # Roll-No: 23K-0047
 
+### Timings on some screenshots is very off because I couldnt change the time to current time, it only changed after PC restarted when electricity went and returned.
+
 ## TASK # 1: Take a number as an input from a user. Check if the number is an even number or an odd number.
 ![Screenshot (2)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/e424f8fe-911f-4c60-9ebd-56f607d75cd1)
 
