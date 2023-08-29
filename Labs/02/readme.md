@@ -6,3 +6,6 @@
 
 ## TASK # 2: Complete the number sequence for 20 terms total: 1, 4, 9, 16....
 ![Screenshot (3)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/8cfbea24-1410-43a3-b388-1b8fdf7302b9)
+
+## TASK # 3: Kolachi restaurant has started charging for wallet parking.
+![Screenshot (4)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/6c030013-a309-4c73-acc9-d039e2c37f53)
