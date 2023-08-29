@@ -16,3 +16,6 @@
 ## TASK # 5: You are supposed to create a mark sheet.
 ![Screenshot (7)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/98afe968-7b2e-4996-a81b-25cb3d2d4240)
 ![Screenshot (8)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/5506a5a3-a2e9-426b-b3e9-a17b128a9692)
+
+## TASK # 6: Given below is a flow chart.
+![Screenshot (9)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/aefeef8d-b784-459f-b98e-e6d9802bb3bf)
