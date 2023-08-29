@@ -19,3 +19,7 @@
 
 ## TASK # 6: Given below is a flow chart.
 ![Screenshot (9)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/aefeef8d-b784-459f-b98e-e6d9802bb3bf)
+
+## TASK # 7: A temperature monitoring system is used to monitor the appropriate level of the temperature.
+![Screenshot (12)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/15f80414-741c-4c6f-a069-a9f9599a71aa)
+
