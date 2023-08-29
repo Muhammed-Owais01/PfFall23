@@ -12,3 +12,7 @@
 
 ## TASK # 4: Draw a hexagon that has six sides. Repeat the hexagon for the same number of times as of its size.
 ![Screenshot (5)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/8f2b5a6a-60f5-4c12-900f-da4bb632c884)
+
+## TASK # 5: You are supposed to create a mark sheet.
+![Screenshot (7)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/98afe968-7b2e-4996-a81b-25cb3d2d4240)
+![Screenshot (8)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/5506a5a3-a2e9-426b-b3e9-a17b128a9692)
