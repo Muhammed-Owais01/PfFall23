@@ -20,6 +20,13 @@
 ## Problem 6: Sum Digit
 ![Screenshot (443)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/da9dd605-ccd3-4ab5-a907-4d97cd8dabd3)
 
+## Problem 7: Exact Age in days, months, and years from Date of Birth
+![Screenshot (448)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/b6b7c314-6187-41c3-a348-e5eb06281302)
+![Screenshot (449)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/095d14a5-2419-468f-a888-3a91fc8d83cf)
+![Screenshot (450)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/63abcdc2-c5a2-4fc6-8a96-46e74e4d4d8b)
+![Screenshot (451)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/f97e6aaf-861f-4cce-a3b2-a255874ce78a)
+
+
 ## Problem 8: Mean Machine
 ![Screenshot (444)](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/1bce9bb1-068a-46b9-9339-a22b084de57c)
 
