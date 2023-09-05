@@ -4,7 +4,7 @@
 int main(){
 	int base = 0;
 	int perp = 0;
-	double hyp = 0;
+	float hyp = 0;
 	printf("Enter Side 1 for triangle: ");
 	scanf("%d", &base);
 	printf("Enter Side 2 for triangle: ");
