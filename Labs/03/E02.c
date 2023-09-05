@@ -13,4 +13,5 @@ int main() {
 	scanf("%d", &depth);
 	vol = len * width * depth;
 	printf("The volume of the container is %d", vol);
+	return 1;
 }
