@@ -13,4 +13,5 @@ int main(){
 	perp = perp * perp;
 	hyp = sqrt(base + perp);
 	printf("The hypotneus is: %f", hyp);
+	return 1;
 }
