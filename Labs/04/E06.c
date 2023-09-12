@@ -11,7 +11,7 @@
 int main() {
 	int n; //Stores n
 	int i = 1; 
-	int j = 1;
+	int j;
 	int val;
 	int num1 = 1; // stores the number of middle spaces to give
 	printf("Enter a number: ");
