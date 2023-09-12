@@ -12,3 +12,9 @@
 
 ## Question 4:
 ![Q4](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/a82e6a7f-c097-473e-b799-833b28f4f667)
+
+## Question 5:
+![Q5](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/4fc32e7f-ecbc-412c-9cba-37ccca0ef5b4)
+
+## Question 6:
+![Q6](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/807966d2-5b61-448f-a3c6-989579456f37)
