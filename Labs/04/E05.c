@@ -56,6 +56,8 @@ int main() {
 			printf("Person 2 is older");
 			} else if (day1 < day2) {
 				printf("Person 1 is older");
+			} else {
+				printf("Same Age");
 			}
 	}
 	}	
