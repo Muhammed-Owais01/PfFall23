@@ -62,4 +62,5 @@ int main() {
 		i = i - 1;
 		printf("\n");
 	}
+	return 1;
 }
