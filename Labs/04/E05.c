@@ -43,19 +43,19 @@ int main() {
 	}
 	while (day2 < 0 || day2 > 31);
 	if (year1 > year2) {
-		printf("Person 1 is older");
-	} else if (year1 < year2) {
 		printf("Person 2 is older");
+	} else if (year1 < year2) {
+		printf("Person 1 is older");
 	} else {
 		if (month1 > month2) {
-			printf("Person 1 is older");
-		} else if (month1 < month2) {
 			printf("Person 2 is older");
+		} else if (month1 < month2) {
+			printf("Person 1 is older");
 		} else {
 			if (day1 > day2) {
-			printf("Person 1 is older");
+			printf("Person 2 is older");
 			} else if (day1 < day2) {
-				printf("Person 2 is older");
+				printf("Person 1 is older");
 			}
 	}
 	}	
