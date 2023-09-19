@@ -14,8 +14,8 @@ int main() {
 	if (digit[1] == 1) {
 		digit[1] = 0;
 	} 
-	if (digit[3] == 1) {
-		digit[3] = 0;
+	if (digit[4] == 1) {
+		digit[4] = 0;
 	}
 	i = 7;
 	while (i >= 0) {
