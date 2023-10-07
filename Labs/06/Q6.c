@@ -1,3 +1,9 @@
+/**
+ * Programmer: Muhammed Owais 
+ * Desc: Stick Game, Computer Always Win.
+ * Date: 10/07/2023
+ * Roll-No: 23K-0047
+ */ 
 #include <stdio.h>
 #include <stdbool.h>
 
