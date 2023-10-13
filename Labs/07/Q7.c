@@ -5,17 +5,14 @@
  * Roll-No: 23K-0047
  */ 
 #include <stdio.h>
-// NOT COMPLETED YET DONT CHECK THIS
+// NOT COMPLETED DONT CHECK
 int main() {
 	int rows = 2;
 	int columns = 2;
-	int col2 = 0;
+	int arr1[20], arr2[20], newarray[20];
 	for(int i = 0; i < rows; i++) {
 		for(int j = 0; j < columns; j++) {
-			for(int a = 0; a < rows; a++) {
-				
-			}
+				sum = sum + arr1[i][j] * arr2[j][i];
 		}
-		col2++;
 	}
 }
