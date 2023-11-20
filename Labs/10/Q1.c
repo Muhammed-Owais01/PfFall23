@@ -1,7 +1,7 @@
 /**
  * Programmer: Muhammed Owais 
  * Desc: Type Casting pointers to create a universal printing function
- * Date: 31/10/2023
+ * Date: 20/11/2023
  * Roll-No: 23K-0047
  */ 
 #include <stdio.h>
