@@ -1,6 +1,6 @@
 /**
  * Programmer: Muhammed Owais 
- * Desc: Reverse
+ * Desc: Reversing Strings, using pointer arithmetic
  * Date: 24/11/2023
  * Roll-No: 23K-0047
  */ 
@@ -8,6 +8,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Whole question can be done using arr[i] notation too after dma
 int main(){
 	int length;
 	char temp;
