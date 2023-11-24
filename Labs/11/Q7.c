@@ -107,7 +107,7 @@ int main(){
 				}
 			}
 	}
-	free(book);
+	free(library_array);
 }
 
 
