@@ -12,3 +12,6 @@
 ## Q3:
 ![Screenshot 2023-11-27 011947](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/2ca5013d-5e70-4fbc-802f-8fc0bc75aeb3)
 ![Screenshot 2023-11-27 011954](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/2adb768b-3dba-4716-a158-6159570d0b70)
+
+## Q4:
+![image](https://github.com/Muhammed-Owais01/PfFall23/assets/83649329/cf7550da-2cf0-41b2-9793-ec1715b135b5)
